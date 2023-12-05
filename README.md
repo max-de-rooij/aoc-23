@@ -2,7 +2,7 @@
 Julia solutions I produced for the 2023 Advent of Code[^aoc]. 
 
 ## Repository Structure
-Solutions are labelled `day-x.jl`, for the solution at day `x`. Input files are in the `input_files` directory and are labelled `day-x-input.txt` for the input at day `x`. 
+Solutions are labelled `day-x.jl`, for the solution at day `x`.
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
